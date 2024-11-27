@@ -58,11 +58,13 @@
             android:layout_height="wrap_content"
             android:text="Login"
             android:textColor="#3B84F1"
-            android:backgroundTint="@color/white"
+            android:background="@color/white"
             android:padding="15dp"
             android:textSize="20sp"
             android:layout_marginTop="32dp"
             android:id="@+id/button_Login"
+
+
             />
         <TextView
             android:layout_width="wrap_content"
